@@ -1,9 +1,13 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #f0f0f0;
+  background-color: #e0f7fa;
 }
 
 h1 {
-  color: green;
+  color: darkred;
+}
+
+p {
+  color: #333;
 }
