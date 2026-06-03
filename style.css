@@ -1,13 +1,16 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #e0f7fa;
+  background-color: #fff3e0;
 }
 
 h1 {
-  color: darkred;
+  color: #1a237e;
 }
 
-p {
-  color: #333;
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: orange;
+  color: white;
 }
