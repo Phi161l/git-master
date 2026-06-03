@@ -8,6 +8,10 @@ h1 {
   color: #2e7d32;
 }
 
+h2 {
+  color: navy;
+}
+
 button {
   padding: 10px;
   background-color: green;
