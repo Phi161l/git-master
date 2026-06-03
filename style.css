@@ -1,16 +1,19 @@
 body {
   font-family: Arial, sans-serif;
-  text-align: center;
-  background-color: #fff3e0;
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
 }
 
 h1 {
-  color: #1a237e;
+  color: darkblue;
+}
+
+ul {
+  text-align: left;
 }
 
 button {
   padding: 10px 20px;
-  border: none;
-  background-color: orange;
-  color: white;
+  cursor: pointer;
 }
