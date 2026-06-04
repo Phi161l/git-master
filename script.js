@@ -6,9 +6,15 @@ function greet(name) {
 
 console.log(greet("Git Learner"));
 
-
 function showMessage() {
   alert("Hello from feature-1 branch 🚀");
 }
 
 console.log("Feature-1 script loaded");
+
+// NEW ADDITION
+function add(a, b) {
+  return a + b;
+}
+
+console.log("Sum result:", add(10, 5));
