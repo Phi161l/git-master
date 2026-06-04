@@ -1,20 +1,17 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #e8f5e9;
+  background-color: #e3f2fd;
 }
 
 h1 {
-  color: #2e7d32;
-}
-
-h2 {
-  color: navy;
+  color: #0d47a1;
 }
 
 button {
-  padding: 10px;
-  background-color: green;
+  padding: 10px 20px;
+  background-color: #1976d2;
   color: white;
   border: none;
+  cursor: pointer;
 }

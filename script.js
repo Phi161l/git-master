@@ -5,3 +5,10 @@ function greet(name) {
 }
 
 console.log(greet("Git Learner"));
+
+
+function showMessage() {
+  alert("Hello from feature-1 branch 🚀");
+}
+
+console.log("Feature-1 script loaded");
