@@ -26,3 +26,11 @@ function multiply(a, b) {
 }
 
 console.log("Multiply result:", multiply(4, 6));
+
+
+// NEW FEATURE
+function devision(a, b) {
+  return a / b;
+}
+
+console.log("devision result:", devison(4, 6));
