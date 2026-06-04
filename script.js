@@ -12,3 +12,10 @@ function showMessage() {
 }
 
 console.log("Feature-1 script loaded");
+
+// NEW UPDATE
+function subtract(a, b) {
+  return a - b;
+}
+
+console.log("Subtract result:", subtract(10, 4));
