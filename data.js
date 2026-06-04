@@ -6,3 +6,7 @@ console.log("App version:", version);
 const appName = "Git Practice App";
 
 console.log("Application:", appName);
+
+const author = "Git Learner";
+
+console.log("Author:", author);
