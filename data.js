@@ -10,3 +10,7 @@ console.log("Application:", appName);
 const author = "Git Learner";
 
 console.log("Author:", author);
+
+const environment = "development";
+
+console.log("Environment:", environment);
