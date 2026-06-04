@@ -18,3 +18,11 @@ function add(a, b) {
 }
 
 console.log("Sum result:", add(10, 5));
+
+
+// NEW FEATURE
+function multiply(a, b) {
+  return a * b;
+}
+
+console.log("Multiply result:", multiply(4, 6));
